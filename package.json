@@ -15,3 +15,10 @@
     "eject": "react-scripts eject"
   }
 }
+{
+  "rules": {
+    "no-unused-vars": "off",
+    "eqeqeq": "off",
+    "radix": "off"
+  }
+}
